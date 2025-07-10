@@ -1,4 +1,4 @@
-**Introduction**
+**Introduction**:
 In digital logic & computing, a sequential circuit that is used to 
 count pulses is called a counter. A counter is a set of FFs 
 including an applied CLK signal and this is the broad application 
@@ -8,7 +8,7 @@ are available in different types like Johnson counter,
 asynchronous or ripple, synchronous counter, decade, ring, and 
 Up/Down counter
 
-**Theory**
+**Theory**:
 The Up/Down counter is also known as the bidirectional counter 
 which is used to count in any direction based on the condition 
 of the input control pin. These are used in different applications 
